@@ -63,7 +63,7 @@ CONFIG_MANAGER = InMemoryConfigManager()
 
 AGENT_CONFIG = ChatGPTAgentConfig(
     openai_api_key=os.getenv("OPENAI_API_KEY"),
-    initial_message=BaseMessage(text="What up guys, its me - Mario!"),
+    initial_message=BaseMessage(text="What up guys, its me - Dmytro Novikov!"),
     prompt_preamble="The AI is having a pleasant conversation about life",
     generate_responses=True,
 )

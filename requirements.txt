@@ -1,0 +1,5 @@
+sounddevice==0.4.7
+twilio==9.3.2
+vocode==0.1.113
+pyngrok==7.2.0
+deepgram-sdk==3.7.3
